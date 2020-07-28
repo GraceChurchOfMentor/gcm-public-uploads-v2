@@ -1,0 +1,4 @@
+name: gcm-public-uploads-v2
+recipe: laravel
+config:
+  webroot: public
